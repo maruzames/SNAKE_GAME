@@ -1,0 +1,14 @@
+# Ignore todos os arquivos de texto
+*.txt
+
+# Ignore Byte-compiled / Optimized / DLL files
+__pycache__/
+
+# Ignora pasta da maquina virtual
+/venv/
+
+#ignora arquivos de Migração
+migrations/
+
+# Ignore 
+.vscode/
